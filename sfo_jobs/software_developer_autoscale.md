@@ -17,21 +17,22 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Learn!
 * Write Python code that's ready to be deployed and maintained
 * Communicate technical concerns clearly
-* Accept (polite) feedback graciously
+* Give and receive (polite) feedback
 * Ensure thorough quality of work through code review and automated testing
 
 ### Useful Skills and Experience
 * Working knowledge of the Python programming language, or at least one other high-level dynamically typed programming language
-* Working knowledge of event-driven/asynchronous programming, especially Twisted
+* Working knowledge of event-driven/asynchronous programming, especially [Twisted](https://twistedmatrix.com/)
 * Experience working on a self-directing ("agile") team of multiple developers
 * Test-driven development and pair programming methodologies
 * Strong analytical thinking and problem solving skills and experience
 * Knowledge of distributed systems
+* Participation in open source communities
 
 ### Bonus
 * Experience in delivering service-based products, deployed to large user bases
 * Existing OpenStack contributor status
-* Experience with numpy, hadoop, storm, spark, or machine learning
+* Experience with or interest in [NumPy](http://www.numpy.org/), [Hadoop](https://hadoop.apache.org/), [Storm](https://storm.apache.org/), [Spark](https://spark.apache.org/), or machine learning
 * Actively engage and collaborate with those outside own team
 * BS/MS in Computer Science or equivalent experience
 
