@@ -18,7 +18,7 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * 8+ years expertise in Python
 * 4-6 years experience with event-driven or async frameworks
 * Experience in delivering service-based products, deployed to large user bases
-* Prior experience in Test Driven Development, Paired Programming methodologies, Scrum, Kanban, etc.
+* Prior experience in Test Driven Development, Pair Programming methodologies, Scrum, Kanban, etc.
 * Strong analytical thinking and problem solving skills and experience
 * Experience with Twisted/asynchronous programming and/or parallelizing code
 * Existing OpenStack contributor status a bonus
