@@ -13,6 +13,8 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Write clean, maintainable code using good engineering practices (distributed version control, test-driven development, peer reviews, continuous integration, automated testing, etc.)
 * Create general-purpose libraries and services, useful to other teams in the company, as well as to the open source community
 
+Our code is open source, so you can keep us honest. Check it out at https://github.com/rackerlabs/otter.
+
 ### Responsibilities
 * Learn!
 * Write Python code that's ready to be deployed and maintained
