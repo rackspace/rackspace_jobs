@@ -15,7 +15,7 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Write clean, maintainable code using the best engineering practices in the industry (DVCS, design patterns, TDD, peer reviews, continuous integration, automated testing, etc.)
 
 ### Qualifications
-* Working experience of the Python programming language, or the same with at least one other high-level dynamically typed programming language
+* Working knowledge of the Python programming language, or the same with at least one other high-level dynamically typed programming language
 * Working knowledge of event-driven/asynchronous programming
 * Experience in delivering service-based products, deployed to large user bases
 * Prior experience in Test Driven Development, Pair Programming methodologies
