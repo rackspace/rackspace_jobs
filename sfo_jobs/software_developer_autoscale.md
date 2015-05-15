@@ -4,15 +4,14 @@ Are you a skilled and passionate Python developer looking for a new challenge in
 
 The Rackspace Cloud provides companies of all sizes with a web services platform in the cloud. With the Rackspace Cloud you can purchase compute power, storage and other services through our suite of infrastructure services as your business demands them.
 
-At Rackspace, we pride ourselves in providing a great work environment with flexible hours, talented team members, and cutting edge technology.  The successful candidate should be able to:
+At Rackspace, we pride ourselves in providing a great work environment with flexible hours, talented team members, and cutting edge technology.  Our team strives to do the following:
 
-* Design cutting edge distributed architectures and develop for large-scale cloud-based systems
-* Design and build back end systems that can efficiently process large volumes of data while maintaining high levels of performance under heavy loads and high 9s
-* Think creatively about new technologies, providing new solutions to old problems or identifying new problems/opportunities
-* Invent libraries, processes, etc., with a focus on delivering high-value products to internal and external customers
-* Help create and/or utilize large-scale infrastructure across multiple regions and data centers
-* Effectively collaborate with teams locally as well as around the globe at each stage of development
-* Write clean, maintainable code using the best engineering practices in the industry (DVCS, design patterns, TDD, peer reviews, continuous integration, automated testing, etc.)
+* Build distributed architectures and develop for large-scale cloud-based systems
+* Build back-end systems that can maintain uptime and performance under load
+* Create and utilize infrastructure across multiple regions and data centers
+* Collaborate with teams locally and remotely at each stage of development
+* Write clean, maintainable code using good engineering practices (distributed version control, test-driven development, peer reviews, continuous integration, automated testing, etc.)
+* Create general-purpose libraries and services, useful to other teams in the company, as well as to the open source community
 
 ### Responsibilities
 * Learn!
@@ -27,6 +26,7 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Experience working on a self-directing ("agile") team of multiple developers
 * Test-driven development and pair programming methodologies
 * Strong analytical thinking and problem solving skills and experience
+* Knowledge of distributed systems
 
 ### Bonus
 * Experience in delivering service-based products, deployed to large user bases
@@ -35,6 +35,10 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Actively engage and collaborate with those outside own team
 * BS/MS in Computer Science or equivalent experience
 
-PS: Contact us and we’ll tell you why our project is code-named Otter. Hint: It’s a pun.
+Please apply if you're interested in the position, regardless of how many qualifications you meet. We want to hear from you!
 
 Please email your resume/github/linkedin (your choice!) to [Ken Wronkiewicz](mailto:ken.wronkiewicz@rackspace.com). No agencies or recruiters, please.
+
+-- The Rackspace Auto Scale Team
+
+PS: Contact us and we’ll tell you why our project is code-named Otter. Hint: It’s a pun.
