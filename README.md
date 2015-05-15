@@ -15,7 +15,7 @@
 
 ### [Rackspace Public Cloud Networking](https://github.com/rackspace/rackspace_jobs/tree/master/cloud_networking_jobs)
 
-* [Software Developer II, Python, Public Cloud Networking/OpenStack Neutron](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_networking_jobs/neutron_jobs/python-dev-2.md)
+* [Software Developer II, Python, Public Cloud Networking/OpenStack Neutron](cloud_networking_jobs/neutron_jobs/python-dev-2.md)
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
