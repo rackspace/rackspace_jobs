@@ -17,6 +17,10 @@
 
 * [Software Developer II, Python, Public Cloud Networking/OpenStack Neutron](cloud_networking_jobs/neutron_jobs/python-dev-2.md)
 
+### [Rackspace Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs)
+
+* [Senior Linux Engineer, Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs/blob/master/Ops_Engineering_Position.md)
+
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
