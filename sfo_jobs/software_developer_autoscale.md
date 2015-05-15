@@ -14,19 +14,24 @@ At Rackspace, we pride ourselves in providing a great work environment with flex
 * Effectively collaborate with teams locally as well as around the globe at each stage of development
 * Write clean, maintainable code using the best engineering practices in the industry (DVCS, design patterns, TDD, peer reviews, continuous integration, automated testing, etc.)
 
-### Qualifications
-* Working knowledge of the Python programming language, or the same with at least one other high-level dynamically typed programming language
-* Working knowledge of event-driven/asynchronous programming
-* Experience in delivering service-based products, deployed to large user bases
-* Prior experience in Test Driven Development, Pair Programming methodologies
+### Responsibilities
+* Learn!
+* Write Python code that's ready to be deployed and maintained
+* Communicate technical concerns clearly
+* Accept (polite) feedback graciously
+* Ensure thorough quality of work through code review and automated testing
+
+### Useful Skills and Experience
+* Working knowledge of the Python programming language, or at least one other high-level dynamically typed programming language
+* Working knowledge of event-driven/asynchronous programming, especially Twisted
 * Experience working on a self-directing ("agile") team of multiple developers
+* Test-driven development and pair programming methodologies
 * Strong analytical thinking and problem solving skills and experience
-* Experience with Twisted/asynchronous programming and/or parallelizing code
-* Existing OpenStack contributor status a bonus
-* Experience with numpy, hadoop, storm, spark, or machine learning is a bonus
-* Gets things done, all the way done
-* Energetically discuss and debate technical opinions in a group setting
-* Maintain a collaborative working relationship with others by seeking, using and giving feedback
+
+### Bonus
+* Experience in delivering service-based products, deployed to large user bases
+* Existing OpenStack contributor status
+* Experience with numpy, hadoop, storm, spark, or machine learning
 * Actively engage and collaborate with those outside own team
 * BS/MS in Computer Science or equivalent experience
 
