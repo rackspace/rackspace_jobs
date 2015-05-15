@@ -41,4 +41,4 @@ We build things for people who build things; we want teammates who want to build
 
 *  Cassandra, Zookeeper, Kafka, Scribe, Thrift, Docker, Redis, Elasticsearch, Hadoop, Statsd, Graphite, Chef, Nagios 
 
-Please email your resume/github/linkedin (your choice!) to [Ken Wronkiewicz](mailto:ken.wronkiewicz@rackspace.com). No agencies or recruiters, please.
+Please email your resume/github/linkedin (your choice!) to [Justin Gallardo](mailto:justin.gallardo@rackspace.com). No agencies or recruiters, please.
