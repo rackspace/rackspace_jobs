@@ -1,12 +1,14 @@
+# Python Developer
+
 Do you enjoy tackling new and unusual problems everyday? Do the words cloud computing, OpenStack, security, cryptography, RESTful APIs, Python, continuous integration and delivery, scalability, availability, and 100% uptime get you excited! If so, keep reading.
 
 OpenStack is a collection of open source technologies delivering a massively scalable cloud operating system. It is one of the fastest growing open source projects in the industry. The team you'd be joining works on Barbican, an OpenStack project providing a REST API for the creation, management, and secure storage of passwords, cryptographic keys, and certificates.  It is aimed at being useful for all environments, including large ephemeral clouds. Rackspace is one of the leading sponsors of OpenStack and actively supports development on numerous OpenStack projects.
 
-Qualifications:
+###Qualifications:
 
 Ideal candidates are passionate advocates of technology and open source. We're looking for people who don't just use these tools and services, but people that write them. It is one thing to start a virtual machine on a host, it is another to have the curiosity to read the source code and figure out how it all works. We are looking to balance the -been there, done that- with the -why can't we do it that way- mentality of thinking. The ability to challenge assumptions and conventions is important. Hands-on experience with some aspect of cryptography (symmetric and asymmetric ciphers, public key encryption, certificate authority, etc) is also highly desired.
 
-Responsibilities:
+###Responsibilities:
 
 - Develop relationships and collaborate with other OpenStack contributors
 - Contribute development efforts upstream to Barbican
@@ -15,7 +17,7 @@ Responsibilities:
 - Research problems discovered by QE or product support and develop solutions to those problems
 - Provide developer support for Cloud Keep, Rackspace’s internal deployment of Barbican
 
-Ideal candidates have:
+###Ideal candidates have:
 
 - 3+ years of designing and writing cutting edge software
 - Programming in Python. Bonus if you have worked in multiple languages like Ruby or Java
