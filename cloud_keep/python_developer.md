@@ -26,3 +26,11 @@ Ideal candidates have:
 - Excellent written and verbal skills
 - Comfortable working in open source communities and interacting across mailing lists, IRC and other distributed communications systems
 - Bonus if you have worked with deployment automation (Chef, Puppet, Ansible, Salt)
+
+**Don't be daunted by skills / requirements: if you even know 70% of what we've
+outlined, you're welcome to apply. Our team thrives off of mentoring one another
+and growing. Of course, if you're senior - we expect you to mentor developers
+earlier in their careers**
+
+Please email your resume/github/linkedin (your choice!) to [Lisa Clark](mailto:lisa.clark@rackspace.com). No agencies
+or recruiters, please.
