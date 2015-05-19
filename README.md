@@ -21,6 +21,10 @@
 
 * [Senior Linux Engineer, Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs/blob/master/Ops_Engineering_Position.md)
 
+### Rackspace Cloud Keep
+
+* [Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_keep/python_developer.md)
+
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
