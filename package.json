@@ -1,0 +1,23 @@
+{
+  "name": "rackspace_jobs",
+  "version": "1.0.0",
+  "description": "Rackspace Jobs for Developers, Engineers, Sysadmins and more ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rackspace/rackspace_jobs.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/rackspace/rackspace_jobs/issues"
+  },
+  "homepage": "https://github.com/rackspace/rackspace_jobs",
+  "dependencies": {
+    "glob": "^5.0.6",
+    "joblint": "^1.3.2"
+  }
+}
