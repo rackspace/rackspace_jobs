@@ -1,7 +1,7 @@
 # Senior Python Developer
 
 ### Overview & Responsibilities
-The DevOps Automation team is seeking an experienced software developer to join our team. You would be responsible for designing and developing software for application deployment, automation, and CI/CD services.  You will work with a team of top talent who build some of the coolest, cutting edge software to do DevOpsy things like automate application deployment. Our team moves fast, gets things done, cares about quality, and loves to think outside the box and come up with innovative ways to deliver tools and APIs to fellow Rackers and customers.  We follow a Lean Startup approach to development. Fun, challenging, but not for the faint of heart!  
+The DevOps Automation team is seeking an experienced software developer to join our team. You would be responsible for designing and developing software for application deployment, automation, and CI/CD services.  You will work with a team of top talent who build some of the coolest, cutting edge software to do DevOpsy things like automate application deployment. Our team moves fast, gets things done, cares about quality, and loves to come up with innovative ways to deliver tools and APIs to fellow Rackers and customers.  We follow a Lean Startup approach to development. Fun, challenging, but not for the faint of heart!  
  
 ### Responsibilities include:
 - Write clean, working code. 12factor.net -like

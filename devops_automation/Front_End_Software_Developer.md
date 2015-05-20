@@ -1,7 +1,7 @@
 # Front-End Software Developer
 
 ### Overview & Responsibilities
-The DevOps Automation team is seeking a Front-End Developer who would be responsible for helping design and develop and AngularJS application which handles application deployment, automation and CI/CD services. You will work with a team of top talent who has built some of the coolest, cutting edge software to manage and display application topographies in a browser. We build great things with SVG, d3, AngularJS and REST APIs. Our team moves fast, gets things done, cares about quality, and loves to craft innovative solutions to deliver meaningful tools and APIs to fellow Rackers and customers. We follow a Lean Startup approach to development, contribute to and influence company-wide design patterns as well as industry-leading application modeling tools.
+The DevOps Automation team is seeking a Front-End Developer who would be responsible for helping design and develop an AngularJS application which handles application deployment, automation and CI/CD services. You will work with a team of top talent who has built some of the coolest, cutting edge software to manage and display application topographies in a browser. We build great things with SVG, d3, AngularJS and REST APIs. Our team moves fast, gets things done, cares about quality, and loves to craft innovative solutions to deliver meaningful tools and APIs to fellow Rackers and customers. We follow a Lean Startup approach to development, contribute to and influence company-wide design patterns as well as industry-leading application modeling tools.
 
 ### Responsibilities:
 
