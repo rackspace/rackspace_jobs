@@ -25,6 +25,11 @@
 
 * [Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_keep/python_developer.md)
 
+### [Rackspace DevOps Automation](https://github.com/rackspace/rackspace_jobs/tree/master/devops_automation)
+
+* [Senior Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/devops_automation/senior_python_developer.md)
+* [Front-End Software Developer](https://github.com/rackspace/rackspace_jobs/blob/master/devops_automation/front_end_software_developer.md)
+
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
