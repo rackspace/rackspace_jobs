@@ -21,6 +21,10 @@
 
 * [Senior Linux Engineer, Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs/blob/master/Ops_Engineering_Position.md)
 
+### Rackspace Public Cloud DNS
+
+* [Software Developer, Opnestack DNS](https://gist.github.com/joeracker/d49030cef6001a8f94d0)
+
 ### Rackspace Cloud Keep
 
 * [Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_keep/python_developer.md)
