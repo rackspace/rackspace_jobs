@@ -2,6 +2,10 @@
 
 **Don’t be daunted by skills / requirements: if you even know 70% of what we’ve outlined, you’re welcome to apply. Our team thrives off of mentoring one another and growing. Of course, if you’re senior - we expect you to mentor developers earlier in their careers**
 
+### Newly listed!
+
+* [Linux Automation Engineer](https://github.com/rackspace/rackspace_jobs/blob/master/linux_automation_engineer.md)
+
 ### [Rackspace Developer Experience](https://github.com/rackspace/rackspace_jobs/tree/master/developer_experience)
 * [Polyglot Developer](https://github.com/rackspace/rackspace_jobs/blob/master/developer_experience/polyglot-software-engineer.md)
 * [Java Developer](https://github.com/rackspace/rackspace_jobs/blob/master/developer_experience/senior-java-engineer.md)
