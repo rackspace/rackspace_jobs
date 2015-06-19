@@ -1,7 +1,7 @@
 # Polyglot software Developer
 
 The Rackspace Developer relations group is looking for a Developer with skills in
-more than one programming language (such as PHP, Python, Ruby, Go Javascript)
+more than one programming language (such as PHP, Python, Ruby, Go, Javascript)
 ready to help us build to help lead, grow and build our Developer Experience
 and solutions.
 
