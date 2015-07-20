@@ -33,7 +33,7 @@ Rackspace was recently recognized by the Anita Borg institute as one of the
 
 ## To apply, email your resume to:
 
-[Jason Meridth](mailto:jason.meridth@rackspace.com). No agencies or recruiters, please.
+[Ryan Clevenger](mailto:ryan.clevenger@rackspace.com). No agencies or recruiters, please.
 
 
 If you see something odd, you can also submit a pull request to fix, or file an
