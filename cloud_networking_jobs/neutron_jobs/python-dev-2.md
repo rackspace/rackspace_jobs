@@ -34,5 +34,5 @@ outlined, you're welcome to apply. Our team thrives off of mentoring one another
 and growing. Of course, if you're senior - we expect you to mentor developers
 earlier in their careers**
 
-Please email your resume/github/linkedin (your choice!) to [Jason Meridth](mailto:jason.meridth@rackspace.com). No agencies
+Please email your resume/github/linkedin (your choice!) to [Ryan Clevenger](mailto:ryan.clevenger@rackspace.com). No agencies
 or recruiters, please.
