@@ -36,7 +36,12 @@
 
 * [Software Developer, Openstack DNS](https://gist.github.com/joeracker/d49030cef6001a8f94d0)
 
+### [Rackspace Private Cloud - OpenStack](https://github.com/rcbops/rackspace_privatecloud_jobs)
+
+* [Software Developer - Development Team](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-dev.md)
+
 ### Rackspace Cloud Keep
+
 
 * [Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_keep/python_developer.md)
 
