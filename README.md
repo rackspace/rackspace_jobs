@@ -26,7 +26,7 @@
 
 ### [Rackspace Public Cloud Networking](https://github.com/rackspace/rackspace_jobs/tree/master/cloud_networking_jobs)
 
-* [Software Developer II, Python, Public Cloud Networking/OpenStack Neutron](cloud_networking_jobs/neutron_jobs/python-dev-2.md)
+* No current jobs available.
 
 ### [Rackspace Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs)
 
