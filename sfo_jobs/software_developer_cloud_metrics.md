@@ -36,4 +36,4 @@ This role will involve working on our Metrics team. We have a large, highly scal
 * Strong understanding of RESTful API design
 * Experience with performance testing and benchmarking
 
-Please email your resume/github/linkedin (your choice!) to [Alex Scammon](mailto:alex.scammon@rackspace.com). No agencies or recruiters, please.
+Please email your resume/github/linkedin (your choice!) to [Alex Scammon](mailto:alexander.scammon@rackspace.com). No agencies or recruiters, please.
