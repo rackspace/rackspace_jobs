@@ -7,10 +7,6 @@
 * [Linux Automation Engineer](https://github.com/rackspace/rackspace_jobs/blob/master/linux_automation_engineer.md)
 * [Senior Software Developer - Cloud Servers / Openstack](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_servers/sr-software-developer-cloud-servers.md)
 
-### [Rackspace Developer Experience](https://github.com/rackspace/rackspace_jobs/tree/master/developer_experience)
-* [Polyglot Developer](https://github.com/rackspace/rackspace_jobs/blob/master/developer_experience/polyglot-software-engineer.md)
-* [Java Developer](https://github.com/rackspace/rackspace_jobs/blob/master/developer_experience/senior-java-engineer.md)
-
 ### [Rackspace San Francisco](https://github.com/rackspace/rackspace_jobs/tree/master/sfo_jobs)
 
 * [Software Developer, Auto Scaling](https://github.com/rackspace/rackspace_jobs/blob/master/sfo_jobs/software_developer_autoscale.md)
