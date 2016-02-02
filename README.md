@@ -4,7 +4,6 @@
 
 ### Newly listed!
 
-* [Linux Automation Engineer](https://github.com/rackspace/rackspace_jobs/blob/master/linux_automation_engineer.md)
 * [Senior Software Developer - Cloud Servers / Openstack](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_servers/sr-software-developer-cloud-servers.md)
 
 ### [Rackspace San Francisco](https://github.com/rackspace/rackspace_jobs/tree/master/sfo_jobs)
