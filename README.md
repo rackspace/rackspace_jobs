@@ -4,7 +4,6 @@
 
 ### Newly listed!
 
-* [Senior Software Developer - Cloud Servers / Openstack](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_servers/sr-software-developer-cloud-servers.md)
 
 ### [Rackspace San Francisco](https://github.com/rackspace/rackspace_jobs/tree/master/sfo_jobs)
 
@@ -17,7 +16,6 @@
 
 * [Senior Software Developer - Hypervisor Team](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-hypervisor.md)
 * [Senior Software Developer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-openstack.md)
-* [Senior Software Developer - Cloud Servers / Openstack](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_servers/sr-software-developer-cloud-servers.md)
 * [Senior Linux Systems Engineer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-linux-sys-engineer.md)
 * [Linux Systems Engineer - Cloud Servers Engineering](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/linux-sys-engineer.md)
 
