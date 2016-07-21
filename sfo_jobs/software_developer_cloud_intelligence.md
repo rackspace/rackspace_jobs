@@ -26,4 +26,4 @@ We are looking for a strong contributor to the team that is creative and excited
 * Familiar with build tools such as Grunt
 * Previous use of Sass, Git, Chef, and Jenkins
 
-Please email your resume/github/linkedin (your choice!) to [David Dunlop](mailto:david.dunlop@rackspace.com). No agencies or recruiters, please.
+Please email your resume/github/linkedin (your choice!) to [Alex Scammon](mailto:alexander.scammon@rackspace.com). No agencies or recruiters, please.
