@@ -3,7 +3,7 @@
 
 ### About the Product:
 
-Rackspace Monitoring is a Rackspace-scale multi-region distributed system for sampling, analyzing, and acting upon arbitrary metrics about users, applications, software stacks, networks, and hardware systems. Our agent is written in C and asynchronous Lua, our server application is written in Node.js, Java, and Go, and we’re working on SDKs and instrumentation libraries for a variety of languages and platforms. Cloud Monitoring is a public-facing product with over 100,000 users, monitoring hundreds of thousands of widely heterogeneous customer systems, and also responsible for internal monitoring of all Rackspace products and systems.
+Rackspace Monitoring is a Rackspace-scale multi-region distributed system for sampling, analyzing, and acting upon arbitrary metrics about users, applications, software stacks, networks, and hardware systems. Our agent is written in C and asynchronous Lua and our server application is written in Node.js, Java, and Go. Rackspace Monitoring is a public-facing product with over 100,000 users, monitoring hundreds of thousands of widely heterogeneous customer systems, and also responsible for internal monitoring of all Rackspace products and systems.
 
 Learn more about our product on the [Rackspace Monitoring website.](http://www.rackspace.com/cloud/monitoring)
 
