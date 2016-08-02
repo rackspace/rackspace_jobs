@@ -35,11 +35,6 @@
 
 * [Software Developer - Development Team](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-dev.md)
 
-### Rackspace Cloud Keep
-
-
-* [Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/cloud_keep/python_developer.md)
-
 ### [Rackspace DevOps Automation](https://github.com/rackspace/rackspace_jobs/tree/master/devops_automation)
 
 * [Senior Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/devops_automation/senior_python_developer.md)
