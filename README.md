@@ -25,6 +25,8 @@
 
 ### [Rackspace Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs)
 
+* [Linux Systems Engineer, Platform Engineering](http://rackspace.jobs/remote-tx/linux-systems-engineer/412EF231C1A347AEAF61FFF80015BD90/job/)
+
 ### [Rackspace Private Cloud - OpenStack](https://github.com/rcbops/rackspace_privatecloud_jobs)
 
 * [Software Developer - Development Team](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-dev.md)
