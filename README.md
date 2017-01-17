@@ -27,10 +27,6 @@
 
 * [Senior Linux Engineer, Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs/blob/master/Ops_Engineering_Position.md)
 
-### Rackspace Public Cloud DNS
-
-* [Software Developer, Openstack DNS](https://gist.github.com/joeracker/d49030cef6001a8f94d0)
-
 ### [Rackspace Private Cloud - OpenStack](https://github.com/rcbops/rackspace_privatecloud_jobs)
 
 * [Software Developer - Development Team](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-dev.md)
