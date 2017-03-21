@@ -14,7 +14,6 @@
 
 ### [Rackspace Public Cloud](https://github.com/antonym/rackspace_cloudservers_jobs)
 
-* [Senior Software Developer - Hypervisor Team](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-hypervisor.md)
 * [Senior Software Developer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-openstack.md)
 * [Senior Linux Systems Engineer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-linux-sys-engineer.md)
 * [Linux Systems Engineer - Cloud Servers Engineering](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/linux-sys-engineer.md)
