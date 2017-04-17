@@ -1,7 +1,7 @@
 
-## Software Developer, Cloud Intelligence
+## Software Developer, Rackspace Intelligence
 
-The Rackspace San Francisco office is looking for a front-end software developer to work on the Cloud Intelligence Team. The team is creating a web application that provides Rackspace customers with insightful and actionable data on their servers and the environments supporting them. Rackspace is working to increase customer’s awareness of the status of their infrastructure.
+Rackspace Intelligence delivers an intuitive interface that gives users a transparent view into their infrastructure health along with actionable insights to improve system performance and availability.  Rackspace is looking for a front-end software developer to work on the Intelligence Team. The team is creating a web application that provides Rackspace customers and Rackspace Support with insightful and actionable data on their servers and the environments supporting them. Rackspace is working to increase customer’s awareness of the status of their infrastructure.  By providing one view of the infrastructure, Rackspace Intelligence enables collaboration between these users that is crucial for providing a fanatical user experience.
 
 The team works on a Javascript stack with a thin Node.js server running express making use of APIs and Angular on the client side. Our styles are done in Sass and our visualizations are done using Flot. We use a number of tools as part of our continuous integration and deployment environment including Grunt, Jenkins, Karma, Protractor and Selenium.
 
@@ -21,9 +21,10 @@ We are looking for a strong contributor to the team that is creative and excited
 * Familiar with http, Rest, json
 
 #### Nice to Have:
-* Experience with Angular
+* Experience with Angular and/or React
 * Excited about data visualizations
 * Familiar with build tools such as Grunt
-* Previous use of Sass, Git, Chef, and Jenkins
+* Knowledge of testing tools such as Jasmine or Selenium
+* Previous use of Sass, Git, Chef, Docker, and Jenkins
 
-Please email your resume/github/linkedin (your choice!) to [Alex Scammon](mailto:alexander.scammon@rackspace.com). No agencies or recruiters, please.
+
