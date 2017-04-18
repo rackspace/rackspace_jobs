@@ -1,11 +1,11 @@
 
 ## Software Developer, Rackspace Intelligence
 
-Rackspace Intelligence delivers an intuitive interface that gives users a transparent view into their infrastructure health along with actionable insights to improve system performance and availability.  Rackspace is looking for a front-end software developer to work on the Intelligence Team. The team is creating a web application that provides Rackspace customers and Rackspace Support with insightful and actionable data on their servers and the environments supporting them. Rackspace is working to increase customer’s awareness of the status of their infrastructure.  By providing one view of the infrastructure, Rackspace Intelligence enables collaboration between these users that is crucial for providing a fanatical user experience.
+Rackspace is looking for a front-end software developer to join the Intelligence Team in building the next generation cross-cloud analytics UI platform. We are looking for a strong contributor to the team that is creative and excited about the world of Javascript and CSS.
+
+Rackspace Intelligence is an integral part of Rackers delivering the fanatical support to our customers. As a customer facing UI product with an intuitive interface, Rackspace Intelligence gives users a transparent view into their infrastructure health, generating actionable insights to improve system performance and availability.  With insightful and actionable data on their servers and the environments supporting them, Rackspace provides the signature fanatical support by working to increase customer’s awareness of the status of their infrastructure and collaboration between these users.
 
 The team works on a Javascript stack with a thin Node.js server running express making use of APIs and Angular on the client side. Our styles are done in Sass and our visualizations are done using Flot. We use a number of tools as part of our continuous integration and deployment environment including Grunt, Jenkins, Karma, Protractor and Selenium.
-
-We are looking for a strong contributor to the team that is creative and excited about the world of Javascript and CSS.
 
 ### Responsibilities:
 * Designing and implementing new features using Javascript, Node.js and Angular
