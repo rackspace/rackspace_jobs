@@ -24,7 +24,7 @@
 
 ### [Rackspace Platform Engineering](https://github.com/egonczeruk/Rackspace_Ops_Engineering_Jobs)
 
-* [Senior Software Developer, Hypervisor Team](./hypervisor_team/README.md)
+* [Senior Software Developer, Hypervisor Team (Remote)](./hypervisor_team/README.md)
 
 ### [Rackspace Private Cloud - OpenStack](https://github.com/rcbops/rackspace_privatecloud_jobs)
 
