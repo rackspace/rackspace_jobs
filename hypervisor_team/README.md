@@ -1,34 +1,49 @@
-# Sr. Software Developer, Hypervisor Team
+# Sr. Software Developer, Hypervisor Team (Remote)
 
-Our ideal candidate will have opportunities to a work in a unique and engaging problem space on the worlds largest OpenStack public cloud. By collaborating closely with other senior developers and engineers, you will propel ideas to production solutions in an agile development model.
+The Rackspace Hypervisor team is actively seeking a senior software
+developer to join our team.  Tasked with scaling and securing the
+Rackspace Public Cloud, you will have opportunities to work in a unique
+and engaging problem space on the world's largest OpenStack public
+cloud.  By collaborating closely with other senior developers and
+systems engineers, you will be a technical leader and implementer for
+seeing ideas through to production solutions.
 
-**This position is available to remote workers (US or UK). US developers have the option to relocate to one of our offices in Austin TX, San Antonio TX, San Francisco CA, or Blacksburg VA; UK developers are free to relocate to our office in Hayes, West London.**
+If you are:
+
+- A strong software developer with solid Linux engineering skills
+- Motivated to dig deep into Linux kernel and hypervisor technologies
+- Excited by the challenges involved with working on 'at scale' problems
+- Wanting to ship software solutions which positively impact customers
+- Looking for a team which supports a 'remote-first' culture
+- Successful at engaging with system engineer peers to drive fixes and
+  features through to production
 
 ### As a member of the Rackspace Hypervisor team, you will:
 
-- Implement live kernel patching in production environments
-- Work on hypervisor challenges at large scale
-- Create resilient and scalable solutions to achieve maximum uptime for our cloud customers
-- Collaborate with some of the most experienced cloud architects in the business
-- Work with our remotely based team with members located in the Eastern, Central and Western US
-- Be a valued member of a winning team on an inspiring mission
+- Work with implementing live kernel patching in customer environments
+- Create resilient, scalable software solutions
+- Serve as a technical leader within the group while being a visible,
+  effective liason as part of working with other teams and business
+  units
+- Be an active, helpful member of our distributed US-based team
 
 ### We're looking for candidates with:
 
-- C/C++ development experience in Linux environments
+- C/C++ development experience on Linux platforms, especially with gcc
+- Ability to read and write intermediate to advanced Python
 - Linux kernel development experience
-- Live patching experience with Ksplice/kpatch and other similar features
-- XenServer internals knowledge and Xen Security Advisory experience
-- Linux operating system internals
+- Deep knowledge of Linux operating system internals
+- Experience with hypervisor technologies like XenServer, KVM/qemu,
+  HyperV, OpenVZ
 - x86 processor architecture and concepts
-- Motivated, self-starting team players who are always thinking about optimizations & improvements
-- A passion for fire prevention as opposed to fire fighting
+- Experience with owning software development build pipelines
 
 ### With bonus qualifications like:
 
-- OpenStack development experience
-- Experience with hypervisor technologies like KVM/qemu, HyperV, OpenVZ
-- POWER processor architecture knowledge
+- XenServer domain expertise and Xen Security Advisory experience
+- Live patching experience with Ksplice/kpatch and other similar tech
+- Experience with source build tools such as compilers, linkers
+- Knowledge of the ELF format
 
 ### If you are:
 
@@ -37,9 +52,6 @@ Our ideal candidate will have opportunities to a work in a unique and engaging p
 - Are a strong software developer with solid Linux engineering skills
 - Interested in working remotely while contributing to team goals
 
-**Don't be daunted by skills / requirements: if you even know 70% of what we've
-outlined, you're welcome to apply. Our team thrives off of mentoring one another
-and growing. Of course, if you're senior - we expect you to mentor developers
-earlier in their careers**
-
-Please email your resume/GitHub/LinkedIn (your choice!) to [Nick Silkey](mailto:nick.silkey@rackspace.com). No agencies or recruiters please.
+Please email your resume/GitHub/LinkedIn (your choice!) to
+[Nick Silkey](mailto:nick.silkey@rackspace.com). No agencies or
+recruiters please.
