@@ -12,6 +12,10 @@
 * [Software Developer, Cloud Metrics](https://github.com/rackspace/rackspace_jobs/blob/master/sfo_jobs/software_developer_cloud_metrics.md)
 * [Software Developer, Cloud Monitoring](https://github.com/rackspace/rackspace_jobs/blob/master/sfo_jobs/software_developer_cloud_monitoring.md)
 
+### [Rackspace Private Cloud](private_cloud)
+
+* [Senior Software Developer - Operational Fabric](private_cloud/operational-fabric-developer.md)
+
 ### [Rackspace Public Cloud](https://github.com/antonym/rackspace_cloudservers_jobs)
 
 * [Senior Software Developer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-openstack.md)
