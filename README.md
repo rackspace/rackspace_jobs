@@ -28,7 +28,8 @@
 
 ### [Rackspace Private Cloud - OpenStack](https://github.com/rcbops/rackspace_privatecloud_jobs)
 
-* [Software Developer - Development Team](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-dev.md)
+* (x2) [Software Developer, Operational Fabric - US/UK/DE/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-operational-fabric.md)
+* (x2) [Software Developer, Config Management, Provisioning, Install/Upgrade) - US/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-cm-provisioning-lifecycle.md)
 
 ### [Rackspace DevOps Automation](https://github.com/rackspace/rackspace_jobs/tree/master/devops_automation)
 
