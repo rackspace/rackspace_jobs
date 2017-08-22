@@ -1,4 +1,4 @@
-## Senior Software Developer - Cloud Control Panel & Platform in Blacksburg, VA or Austin, TX
+## Senior Software Developer - Cloud Control Panel & Platform - Blacksburg, VA, Austin, TX, or Remote/Work From Home
 ### Overview & Responsibilities
 
 Rackspace is seeking a talented full stack Senior Software Developer for our Cloud Control Panel and Platform teams. You will be working primarily in Python, Javascript, HTML, ES6, and CSS building world class web applications for Rackspace services. You'll work with a strong, passionate engineering team writing great software by using the best engineering practices in the industry. Passion for all aspects of software development is a must.
@@ -38,6 +38,7 @@ Rackspace is seeking a talented full stack Senior Software Developer for our Clo
 ### To Apply
 * Blacksburg, VA - [Blacksburg Senior Software Developer (on rackspace.jobs)](http://rackspace.jobs/blacksburg-va/senior-software-developer-cloud-control-panel-platform/7D9B595CB4D646BD9216DDF56EB8B3C0/job/)
 * Austin, TX - [Austin Senior Software Developer (on rackspace.jobs)](http://rackspace.jobs/austin-tx/senior-software-developer-cloud-control-panel-platform/F1A21F42E1824FC2863D60D0F0F8C5E0/job/)
+* Remote/Work from home - [Remote Senior Software Developer (on rackspace.jobs)](http://rackspace.jobs/remote-usa/senior-software-developer-cloud-control-panel-platform/53358876E5D94535ABEE12DB420B422F/job/)
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
