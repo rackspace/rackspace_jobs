@@ -40,6 +40,10 @@
 * [Senior Python Developer](https://github.com/rackspace/rackspace_jobs/blob/master/devops_automation/senior_python_developer.md)
 * [Front-End Software Developer](https://github.com/rackspace/rackspace_jobs/blob/master/devops_automation/front_end_software_developer.md)
 
+### Rackspace Cloud Control Panel & Platform
+
+* [Senior Software Developer - Cloud Control Panel & Platform (Austin/Blacksburg)](./tes-platform/sr-software-dev-fullstack.md)
+
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
