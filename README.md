@@ -21,6 +21,7 @@
 * [Senior Software Developer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-software-dev-openstack.md)
 * [Senior Linux Systems Engineer - Openstack Development](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/sr-linux-sys-engineer.md)
 * [Linux Systems Engineer - Cloud Servers Engineering](https://github.com/antonym/rackspace_cloudservers_jobs/blob/master/linux-sys-engineer.md)
+* [Linux Systems Engineer - Cloud Load Balancers](./public_cloud/README.md)
 
 ### [Rackspace Public Cloud Networking](https://github.com/rackspace/rackspace_jobs/tree/master/cloud_networking_jobs)
 
