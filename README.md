@@ -15,6 +15,7 @@
 ### [Rackspace Private Cloud](private_cloud)
 
 * [Senior Software Developer - Operational Fabric](private_cloud/operational-fabric-developer.md)
+* [Software Developer - Managed Kubernetes](private_cloud/managed-k8s-developer.md)
 
 ### [Rackspace Public Cloud](https://github.com/antonym/rackspace_cloudservers_jobs)
 
